@@ -1,6 +1,6 @@
-baseURL = "/"
+baseURL = "http://165.227.14.241/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "Longtail Financial"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
