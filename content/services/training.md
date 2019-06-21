@@ -1,19 +1,17 @@
 ---
-title: 'Tax Filing'
+title: 'Training and Education'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-6.png'
 draft: false
 featured: true
-weight: 2
-heroHeading: 'Tax Filing '
+weight: 3
+heroHeading: 'Training and Education'
 heroSubHeading: 'Preparing and filing your tax return'
 heroBackground: 'services/service2.jpg'
 ---
-
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+We train community members to become custodians of their communities software and data. We offer programs
+on programming and data analysis. This enables communities to play a role in their own software
+development and data management.
 
 - Nata perque
 - Et ferrugine laedam

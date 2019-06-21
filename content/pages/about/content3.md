@@ -8,4 +8,4 @@ buttonLink: 'contact'
 
 # Contact Us
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+Collaboration is key. Please contact us for a conversation on how we can work together.

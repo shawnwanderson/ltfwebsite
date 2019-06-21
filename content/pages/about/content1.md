@@ -7,4 +7,4 @@ button: ''
 
 ## No Limits
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+Technology is opening possibilities that were once difficult to imagine. The world is globally connected. Communication is instantanious. Ideas are spreading at the speed of light. There are no limits to the heights we can achieve by working together.

@@ -5,13 +5,13 @@
     "image": "features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Certified Engineers",
+    "description": "Our members hold certifications in computer science, data science, and blockchain development",
     "image": "features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Competetive Pricing",
+    "description": "We leverage powerful tools and technology recipes to get tasks done fast and efficiently, resulting in lower fees for our clients.",
     "image": "features/noun_3d modeling_1885342.svg"
   }
 ]

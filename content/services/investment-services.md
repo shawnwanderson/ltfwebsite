@@ -1,17 +1,19 @@
 ---
-title: 'Superannuation'
+title: 'Investment Services'
 date: 2018-11-28T15:14:54+10:00
 icon: 'services/service-icon-5.png'
 featured: true
 draft: false
-heroHeading: 'Superannuation'
+weight: 4
+heroHeading: 'Investment Services'
 heroSubHeading: 'Saving for retirement requires careful planning.'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Enter the global digital economy. Do not be left out as the world moves to the efficient,
+secure world of digital finance. Bitcoin has been called the internet of money. Long Tail Financial
+offers an array of investment services including portfolio management, and access to institutional
+funds in cryptocurrency markets.
 
 ## Ne verba patulosque numen vix libet
 

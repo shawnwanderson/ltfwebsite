@@ -1,17 +1,18 @@
 ---
-title: 'Mergers'
-date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
-featured: true
+title: 'Community Demographics'
+date: 2018-11-18T12:33:46+10:00
+icon: 'services/service-icon-1.png'
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
-heroBackground: 'services/service2.jpg'
+featured: true
+weight: 1
+heroHeading: 'Community Demographics'
+heroSubHeading: "Empowering communities to own and control their data"
+heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Automatic uploads to ISETS. Get funding for programs. Track business, labour, and employment metrics for your community.
+Automatically notify members of expiring credentials. Produce custom reports for your chief and counsel. Interoperate with 
+other communities across Canada.
 
 ## Ne verba patulosque numen vix libet
 
