@@ -3,13 +3,13 @@ title: 'About'
 date: 2018-12-06T09:29:16+10:00
 layout: 'aboutlayout'
 heroHeading: 'About Us'
-heroSubHeading: "Established in 2018, we're a team of technologists, building a globally connected community."
+heroSubHeading: "Established in 2018, we're a team of technologists, connecting a global network of communities."
 heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
 
-<div>
-{{< content-strip-left "/pages/about" "content1" >}}
-</div>
+<!-- <div> -->
+<!-- {{< content-strip-left "/pages/about" "content1" >}} -->
+<!-- </div> -->
 <div>
 {{< content-strip-right "/pages/about" "content2" >}}
 </div>
