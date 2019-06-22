@@ -8,7 +8,7 @@ buttonLink: 'work'
 
 
 
-We are implementing the network infrastructure required to support the emerging
+We are implementing network infrastructure to support the emerging
 100 billion dollar national Indigenous economy. This means leapfrogging conservative
 technology for more efficient solutions enabled by blockchain and big data.
 <!--  -->
